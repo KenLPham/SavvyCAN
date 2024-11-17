@@ -244,6 +244,13 @@
          </widget>
         </item>
         <item>
+         <widget class="QCheckBox" name="cbHideTx">
+          <property name="text">
+           <string>Hide Transmitted Frames</string>
+          </property>
+         </widget>
+        </item>
+        <item>
          <widget class="QCheckBox" name="cbAutoScroll">
           <property name="text">
            <string>Auto Scroll Window</string>
